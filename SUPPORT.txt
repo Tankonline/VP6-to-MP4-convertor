@@ -1,0 +1,102 @@
+====================================
+VP6 to MP4 Converter - Support
+====================================
+
+This file provides help for common issues when
+converting VP6 files to MP4 format.
+
+------------------------------------
+Contact
+------------------------------------
+
+Creator: RETR0
+
+Please read README.txt before requesting help.
+
+------------------------------------
+Common Problems
+------------------------------------
+
+1. FFmpeg Not Found
+
+Problem:
+The batch file says FFmpeg is missing.
+
+Solution:
+- Check the Tools folder
+- Make sure ffmpeg.exe exists
+- Do not rename folders
+
+
+2. No Output Files
+
+Problem:
+No MP4 files are created.
+
+Solution:
+- Confirm .vp6 files are in ".Bat files"
+- Check the Converted folder
+- Look for error messages
+
+
+3. Corrupted or Black Video
+
+Problem:
+Output video does not play correctly.
+
+Solution:
+- Source file may be damaged
+- Try reconverting
+- Test with another VP6 file
+
+
+4. No Audio
+
+Problem:
+Output file has no sound.
+
+Solution:
+- Original VP6 file may not contain audio
+- This is normal for some game videos
+
+
+5. Window Closes Too Fast
+
+Problem:
+Batch window closes immediately.
+
+Solution:
+- Run the file from Command Prompt
+- Read the displayed error message
+
+
+------------------------------------
+Best Practices
+------------------------------------
+
+- Keep backups of original VP6 files
+- Use simple filenames
+- Do not interrupt conversions
+- Keep Tools folder unchanged
+
+------------------------------------
+Updates
+------------------------------------
+
+When updating this tool:
+
+- Update documentation files
+- Verify FFmpeg paths
+
+------------------------------------
+Disclaimer
+------------------------------------
+
+This tool is provided "as is".
+
+No responsibility is taken for data loss.
+Always back up important files.
+
+Use at your own risk.
+
+====================================
